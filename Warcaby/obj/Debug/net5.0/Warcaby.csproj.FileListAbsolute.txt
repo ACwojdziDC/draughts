@@ -1,0 +1,95 @@
+C:/Users/Sebastian/source/repos/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.exe
+C:/Users/Sebastian/source/repos/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.deps.json
+C:/Users/Sebastian/source/repos/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.runtimeconfig.json
+C:/Users/Sebastian/source/repos/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.runtimeconfig.dev.json
+C:/Users/Sebastian/source/repos/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.dll
+C:/Users/Sebastian/source/repos/Warcaby/Warcaby/bin/Debug/net5.0/ref/Warcaby.dll
+C:/Users/Sebastian/source/repos/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.pdb
+C:/Users/Sebastian/source/repos/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.csprojAssemblyReference.cache
+C:/Users/Sebastian/source/repos/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Sebastian/source/repos/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.AssemblyInfoInputs.cache
+C:/Users/Sebastian/source/repos/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.AssemblyInfo.cs
+C:/Users/Sebastian/source/repos/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.csproj.CoreCompileInputs.cache
+C:/Users/Sebastian/source/repos/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.dll
+C:/Users/Sebastian/source/repos/Warcaby/Warcaby/obj/Debug/net5.0/ref/Warcaby.dll
+C:/Users/Sebastian/source/repos/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.pdb
+C:/Users/Sebastian/source/repos/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.genruntimeconfig.cache
+C:/Users/Sebastian/Desktop/gitwarcaby/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.csprojAssemblyReference.cache
+C:/Users/Sebastian/Desktop/gitwarcaby/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Sebastian/Desktop/gitwarcaby/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.AssemblyInfoInputs.cache
+C:/Users/Sebastian/Desktop/gitwarcaby/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.AssemblyInfo.cs
+C:/Users/Sebastian/Desktop/gitwarcaby/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.csproj.CoreCompileInputs.cache
+C:/Users/Sebastian/Desktop/gitwarcaby/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.dll
+C:/Users/Sebastian/Desktop/gitwarcaby/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/ref/Warcaby.dll
+C:/Users/Sebastian/Desktop/gitwarcaby/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.pdb
+C:/Users/Sebastian/Desktop/gitwarcaby/Polish-draughts/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.exe
+C:/Users/Sebastian/Desktop/gitwarcaby/Polish-draughts/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.deps.json
+C:/Users/Sebastian/Desktop/gitwarcaby/Polish-draughts/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.runtimeconfig.json
+C:/Users/Sebastian/Desktop/gitwarcaby/Polish-draughts/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.runtimeconfig.dev.json
+C:/Users/Sebastian/Desktop/gitwarcaby/Polish-draughts/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.dll
+C:/Users/Sebastian/Desktop/gitwarcaby/Polish-draughts/Warcaby/Warcaby/bin/Debug/net5.0/ref/Warcaby.dll
+C:/Users/Sebastian/Desktop/gitwarcaby/Polish-draughts/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.pdb
+C:/Users/Sebastian/Desktop/gitwarcaby/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.genruntimeconfig.cache
+C:/Users/Ewelina/Desktop/CODECOOL/PROJEKTY/Warcaby_2/Polish-draughts/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.exe
+C:/Users/Ewelina/Desktop/CODECOOL/PROJEKTY/Warcaby_2/Polish-draughts/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.deps.json
+C:/Users/Ewelina/Desktop/CODECOOL/PROJEKTY/Warcaby_2/Polish-draughts/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.runtimeconfig.json
+C:/Users/Ewelina/Desktop/CODECOOL/PROJEKTY/Warcaby_2/Polish-draughts/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.runtimeconfig.dev.json
+C:/Users/Ewelina/Desktop/CODECOOL/PROJEKTY/Warcaby_2/Polish-draughts/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.dll
+C:/Users/Ewelina/Desktop/CODECOOL/PROJEKTY/Warcaby_2/Polish-draughts/Warcaby/Warcaby/bin/Debug/net5.0/ref/Warcaby.dll
+C:/Users/Ewelina/Desktop/CODECOOL/PROJEKTY/Warcaby_2/Polish-draughts/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.pdb
+C:/Users/Ewelina/Desktop/CODECOOL/PROJEKTY/Warcaby_2/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.csprojAssemblyReference.cache
+C:/Users/Ewelina/Desktop/CODECOOL/PROJEKTY/Warcaby_2/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Ewelina/Desktop/CODECOOL/PROJEKTY/Warcaby_2/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.AssemblyInfoInputs.cache
+C:/Users/Ewelina/Desktop/CODECOOL/PROJEKTY/Warcaby_2/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.AssemblyInfo.cs
+C:/Users/Ewelina/Desktop/CODECOOL/PROJEKTY/Warcaby_2/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.csproj.CoreCompileInputs.cache
+C:/Users/Ewelina/Desktop/CODECOOL/PROJEKTY/Warcaby_2/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.dll
+C:/Users/Ewelina/Desktop/CODECOOL/PROJEKTY/Warcaby_2/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/ref/Warcaby.dll
+C:/Users/Ewelina/Desktop/CODECOOL/PROJEKTY/Warcaby_2/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.pdb
+C:/Users/Ewelina/Desktop/CODECOOL/PROJEKTY/Warcaby_2/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.genruntimeconfig.cache
+/Users/kt/OneDrive/Codecool/Projekty/C#/Polish-draughts/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.deps.json
+/Users/kt/OneDrive/Codecool/Projekty/C#/Polish-draughts/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.runtimeconfig.json
+/Users/kt/OneDrive/Codecool/Projekty/C#/Polish-draughts/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.runtimeconfig.dev.json
+/Users/kt/OneDrive/Codecool/Projekty/C#/Polish-draughts/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.dll
+/Users/kt/OneDrive/Codecool/Projekty/C#/Polish-draughts/Warcaby/Warcaby/bin/Debug/net5.0/ref/Warcaby.dll
+/Users/kt/OneDrive/Codecool/Projekty/C#/Polish-draughts/Warcaby/Warcaby/bin/Debug/net5.0/Warcaby.pdb
+/Users/kt/OneDrive/Codecool/Projekty/C#/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.csprojAssemblyReference.cache
+/Users/kt/OneDrive/Codecool/Projekty/C#/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kt/OneDrive/Codecool/Projekty/C#/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.AssemblyInfoInputs.cache
+/Users/kt/OneDrive/Codecool/Projekty/C#/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.AssemblyInfo.cs
+/Users/kt/OneDrive/Codecool/Projekty/C#/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.csproj.CoreCompileInputs.cache
+/Users/kt/OneDrive/Codecool/Projekty/C#/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.dll
+/Users/kt/OneDrive/Codecool/Projekty/C#/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/ref/Warcaby.dll
+/Users/kt/OneDrive/Codecool/Projekty/C#/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.pdb
+/Users/kt/OneDrive/Codecool/Projekty/C#/Polish-draughts/Warcaby/Warcaby/obj/Debug/net5.0/Warcaby.genruntimeconfig.cache
+C:\Git\Polish-draughts\Warcaby\Warcaby\bin\Debug\net5.0\Warcaby.exe
+C:\Git\Polish-draughts\Warcaby\Warcaby\bin\Debug\net5.0\Warcaby.deps.json
+C:\Git\Polish-draughts\Warcaby\Warcaby\bin\Debug\net5.0\Warcaby.runtimeconfig.json
+C:\Git\Polish-draughts\Warcaby\Warcaby\bin\Debug\net5.0\Warcaby.runtimeconfig.dev.json
+C:\Git\Polish-draughts\Warcaby\Warcaby\bin\Debug\net5.0\Warcaby.dll
+C:\Git\Polish-draughts\Warcaby\Warcaby\bin\Debug\net5.0\ref\Warcaby.dll
+C:\Git\Polish-draughts\Warcaby\Warcaby\bin\Debug\net5.0\Warcaby.pdb
+C:\Git\Polish-draughts\Warcaby\Warcaby\obj\Debug\net5.0\Warcaby.csprojAssemblyReference.cache
+C:\Git\Polish-draughts\Warcaby\Warcaby\obj\Debug\net5.0\Warcaby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Polish-draughts\Warcaby\Warcaby\obj\Debug\net5.0\Warcaby.AssemblyInfoInputs.cache
+C:\Git\Polish-draughts\Warcaby\Warcaby\obj\Debug\net5.0\Warcaby.AssemblyInfo.cs
+C:\Git\Polish-draughts\Warcaby\Warcaby\obj\Debug\net5.0\Warcaby.csproj.CoreCompileInputs.cache
+C:\Git\Polish-draughts\Warcaby\Warcaby\obj\Debug\net5.0\Warcaby.dll
+C:\Git\Polish-draughts\Warcaby\Warcaby\obj\Debug\net5.0\ref\Warcaby.dll
+C:\Git\Polish-draughts\Warcaby\Warcaby\obj\Debug\net5.0\Warcaby.pdb
+C:\Git\Polish-draughts\Warcaby\Warcaby\obj\Debug\net5.0\Warcaby.genruntimeconfig.cache
+C:\C projects\Warcaby\Warcaby\bin\Debug\net5.0\Warcaby.exe
+C:\C projects\Warcaby\Warcaby\bin\Debug\net5.0\Warcaby.deps.json
+C:\C projects\Warcaby\Warcaby\bin\Debug\net5.0\Warcaby.runtimeconfig.json
+C:\C projects\Warcaby\Warcaby\bin\Debug\net5.0\Warcaby.runtimeconfig.dev.json
+C:\C projects\Warcaby\Warcaby\bin\Debug\net5.0\Warcaby.dll
+C:\C projects\Warcaby\Warcaby\bin\Debug\net5.0\ref\Warcaby.dll
+C:\C projects\Warcaby\Warcaby\bin\Debug\net5.0\Warcaby.pdb
+C:\C projects\Warcaby\Warcaby\obj\Debug\net5.0\Warcaby.csprojAssemblyReference.cache
+C:\C projects\Warcaby\Warcaby\obj\Debug\net5.0\Warcaby.GeneratedMSBuildEditorConfig.editorconfig
+C:\C projects\Warcaby\Warcaby\obj\Debug\net5.0\Warcaby.AssemblyInfoInputs.cache
+C:\C projects\Warcaby\Warcaby\obj\Debug\net5.0\Warcaby.AssemblyInfo.cs
+C:\C projects\Warcaby\Warcaby\obj\Debug\net5.0\Warcaby.csproj.CoreCompileInputs.cache
+C:\C projects\Warcaby\Warcaby\obj\Debug\net5.0\Warcaby.dll
+C:\C projects\Warcaby\Warcaby\obj\Debug\net5.0\ref\Warcaby.dll
+C:\C projects\Warcaby\Warcaby\obj\Debug\net5.0\Warcaby.pdb
+C:\C projects\Warcaby\Warcaby\obj\Debug\net5.0\Warcaby.genruntimeconfig.cache
